@@ -1,3 +1,10 @@
+![Cover art of Goodbye by The 1999](https://i.scdn.co/image/ab67616d0000b2737bd02d0ff80bd99a94718096)
+
+
+<div align="center" style="font-weight: bold;">
+<b> Goodbye | The 1999 </b>
+</div>
+
 # DTP Assignment 2
 
 This assignment is all about GitHub. It is divided into two parts.
